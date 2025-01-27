@@ -28,6 +28,7 @@
 - [phpied.com - How many bytes is “normal” for a web font](https://www.phpied.com/bytes-normal-web-font-study-google-fonts/)
 - [nitropack.io - 8 Web Font Optimization Strategies to Pass Core Web Vitals](https://nitropack.io/blog/post/font-loading-optimization)
 - [markoskon.com - Creating font subsets](https://markoskon.com/creating-font-subsets/)
+- [industrialempathy.com - More than you ever wanted to know about font loading on the web](https://www.industrialempathy.com/posts/high-performance-web-font-loading/)
 
 ## Frameworks
 - [Next.js - Font Optimization](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)

@@ -1,6 +1,7 @@
 # Font Optimizations in React Apps
 
-## [Slides (PDF)](React%20meetup%20-%20Font%20Optimizations%20in%20React%20Apps.pdf)
+## [Slides for React meetup (PDF)](React%20meetup%20-%20Font%20Optimizations%20in%20React%20Apps.pdf)
+## [Slides for DevFest (PDF)](DevFest%202025%20-%20Font%20Optimizations%20in%20React%20Apps.pdf)
 
 ## Talks
 - [Mandy Michael's talk "Font Performance Strategies" at performance.now() 2024](https://youtu.be/P4378iO4oBI?si=Xeh-ihx6s-NkWDIA)

@@ -4,6 +4,9 @@
 
 ## Talks
 - [Mandy Michael's talk "Font Performance Strategies" at performance.now() 2024](https://youtu.be/P4378iO4oBI?si=Xeh-ihx6s-NkWDIA)
+- [Lee Robinson - Using Fonts in Next.js](https://youtu.be/L8_98i_bMMA?si=mJ1l20H1gLEb9m8R)
+- [ViteConf 2024 - Daniel Roe | Magically Optimising Your Fonts](https://youtu.be/uHln79_SQjs?si=PZPqkBztF83w5KH2)
+- [The Weekly Dev's Brew - Fast Sites Start with Fonts: A Deep Dive with Daniel Roe](https://youtu.be/UD8zt57lQtU?si=-zahGk5fH53Y4XYq)
 
 ## MDN
 - [@font-face](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face)
@@ -34,7 +37,9 @@
 
 ## Frameworks
 - [Next.js - Font Optimization](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
-- [Vite - Universal Webfont loader](https://github.com/cssninjaStudio/unplugin-fonts/tree/main)
+- [github.com - fontaine](https://github.com/unjs/fontaine)
+- [github.com - fontless](https://github.com/unjs/fontaine/tree/main/packages/fontless)
+- [fonts.nuxt.com - Nuxt Fonts](https://fonts.nuxt.com/)
 
 ## Fonts
 - [JetBrains Mono - A typeface for developers](https://www.jetbrains.com/lp/mono/)
@@ -52,6 +57,7 @@
 - [Slice GUI](https://slice-gui.netlify.app/)
 
 ### Size-adjust
+- [seek-oss.github.io - Capsize](https://seek-oss.github.io/capsize/)
 - [highperformancewebfonts.com - High-Performance Web Fonts](https://highperformancewebfonts.com/)
 - [screenspan.net - Fallback Font Generator](https://screenspan.net/fallback)
 - [meowni.ca - Font style matcher](https://meowni.ca/font-style-matcher/)
@@ -61,5 +67,6 @@
 - [industrialempathy.com - Fallbacks for Google fonts](https://www.industrialempathy.com/perfect-ish-font-fallback/?font=Roboto)
 
 ### Self-hosting
+- [github.com - unifont](https://github.com/unjs/unifont)
 - [github.com - Google Web Fonts Helper](https://github.com/majodev/google-webfonts-helper)
 - [fontsource.org - Fontsource](fontsource.org)
